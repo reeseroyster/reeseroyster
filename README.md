@@ -4,7 +4,7 @@ Linux tinkerer and self-hoster — Arch/Omarchy desktop, Debian home server, Pyt
 
 ## What I'm Working On
 
-- 🖥️ Omarchy/Hyprland tooling and a full-machine backup + restore system
+- 🖥️ Omarchy/Hyprland tooling
 - 📱 Android: AI agents in Omalauncher, native ZQuest Classic builds
 
 ## Stack
